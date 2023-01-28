@@ -1,0 +1,13 @@
+[
+        {
+            "id": "1",
+            "name": "whiscas",
+            "price": "1500",
+            "weight": "1kg",
+            "discount": "10",
+            "category": "1",
+            "subcategory": "alimento",
+            "animal": "gato",
+            "stock": "100"
+          }
+]
