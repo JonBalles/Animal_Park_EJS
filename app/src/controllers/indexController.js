@@ -7,5 +7,9 @@ module.exports = {
 
     error: (req, res) => {
         res.render("error")
-    }
+    },
+
+    detalleProducto:(req, res) => {
+        res.render("detalleProducto")
+    },
 }

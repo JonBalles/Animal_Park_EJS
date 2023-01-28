@@ -6,4 +6,6 @@ router.get("/", controller.index);
 
 router.get("/error", controller.error)
 
+router.get("/detalleProducto", controller.detalleProducto)
+
 module.exports = router;
